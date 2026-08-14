@@ -5,9 +5,9 @@
   
     <body>
       <ul>
-        <il>1.Agalinha</il>
-        <il>2.A galinha</il>
-        <il>3.Hlinha</il>
+        <li>1.Agalinha</li>
+        <li>2.A galinha</li>
+        <li>3.Hlinha</li>
       </ul>
       
   <p>Imagem d'agalinha</p>
